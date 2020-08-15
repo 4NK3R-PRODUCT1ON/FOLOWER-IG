@@ -12,7 +12,7 @@ $ ls
 
 $ pkg install unzip
 
-$ unzip node_module.zip
+$ unzip node_modules.zip
 
 $ npm install
 
